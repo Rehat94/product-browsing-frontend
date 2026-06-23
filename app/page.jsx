@@ -17,7 +17,7 @@ import { ProductFormDialog } from "@/components/product-form-dialog"
 import { ConfirmDialog } from "@/components/confirm-dialog"
 import { Toaster } from "@/components/toaster"
 
-const PAGE_LIMIT = 12
+const PAGE_LIMIT = 20
 
 export default function Page() {
   // ----- catalog state -----
